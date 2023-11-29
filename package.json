@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "@paxpar-tech/pp-template-demo",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,10 +10,6 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@paxpar-tech/pp-widgets-demo": "../pp-widgets-demo", 
-    "@nuxt/devtools": "latest",
-    "nuxt": "^3.8.2",
-    "vue": "^3.3.8",
-    "vue-router": "^4.2.5"
+    "@paxpar-tech/pp-widgets-demo": "../pp-widgets-demo"
   }
 }
