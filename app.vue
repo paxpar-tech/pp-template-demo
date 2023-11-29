@@ -1,0 +1,3 @@
+<template>
+    <ppw-app />
+</template>
